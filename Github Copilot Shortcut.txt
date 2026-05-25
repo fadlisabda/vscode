@@ -1,0 +1,8 @@
+https://github.com/features/copilot
+function 
+tab
+enter
+ctrl + enter
+alt { atau }
+komentar + function
+css pakai .

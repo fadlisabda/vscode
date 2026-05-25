@@ -1,0 +1,25 @@
+ctrl+home/end,home/end
+ctrl+x/c
+ctrl+shift+k
+alt+atas/bawah
+alt+shift+atas/bawah
+ctrl+enter,ctrl+shift+enter
+ctrl+shift+\
+ctrl+b
+ctrl+p
+ctrl+shift+t
+ctrl+w
+ctrl+tab,Ctrl+shift+tab,ctrl+angka,ctrl+pgup
+zen moder
+ctrl+shift+p=select default shell
+ctrl ,=font size&family,setting json copas ke komputer lain kalau mau dipindahkan,mouse wheel zoom
+ctrl+`
+tab,Shift+tab
+ctrl+/
+Ctrl+l,Ctrl+shift+l 
+ctrl+d
+ctrl+f2
+alt+click
+Ctrl p+@ : #
+alt+angka
+ctrl+shift+f

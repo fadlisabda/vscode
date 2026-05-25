@@ -1,0 +1,20 @@
+referensi:global
+$1=untuk urutan pindah setelah di tab
+$$1=untuk ada $
+/t=tab
+|=pilihan
+
+\\$this->$1->$2('$3');$0=miring bikin $this di skip saat di tab
+
+[]=untuk 2 baris
+[
+  "<label for=\"${2:username}\">${3:Username}</label>",=miring bikin "" bisa dipakai, 
+  "<input type=\"${1:text}\" name=\"${2:username}\" id=\"${2:username}\">"
+]
+
+"<label>",
+"/t${3:Email}",
+"/t<input type=\"${1:email}\" name=\"${2:email}\">",
+"</label>"
+
+<form method=\"${1|get,post|}\" post=\"$2\">$3</form>

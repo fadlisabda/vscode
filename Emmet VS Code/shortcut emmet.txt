@@ -1,0 +1,21 @@
+https://emmet.io/
+>=menyimpan tag didalam tag lain
+.container=class
++=elemen sejajar
+*
+()=grouping
+{}=membuat teks
+$=urutan angka
+$$$=001
+lorem100
+
+css
+w80p
+m20-auto
+bgc
+c#0
+-bdrs
+baim
+fofam
+decoration
+tetra
