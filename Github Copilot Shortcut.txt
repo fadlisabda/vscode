@@ -6,3 +6,4 @@ ctrl + enter
 alt { atau }
 komentar + function
 css pakai .
+jelaskan kode
